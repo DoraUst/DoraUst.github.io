@@ -1,4 +1,11 @@
 /* ELEMENTS */
+:root {
+    --midnight: #191821;
+    --dark-violet: #292536;
+    --lavender: #F4F1F8;
+    --accent-purple: #A78BFA;
+    --silver: #AAA5B8;
+}
 
 h1 {
     font-family: 'greatlydemo', sans-serif;
@@ -11,7 +18,7 @@ h2 {
     font-family: 'Open Sans', sans-serif;
     box-shadow: none;
     font-size: 1.5em;
-    width: 400px;
+    max-width: 100%;
     margin: auto;
 }
 
@@ -43,7 +50,7 @@ header {
     text-align: center;
     background-color: #2a2a2a;
     color: white;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 
